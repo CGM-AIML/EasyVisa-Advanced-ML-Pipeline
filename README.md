@@ -93,7 +93,7 @@ This approach ensures the model’s outputs remain **actionable**, not just stat
 ---
 
 ## View Modeling
-[![Open In GitHub](https://img.shields.io/badge/Open%20in-GitHub-black?logo=github)](https://github.com/AINeuroForge/EasyVisa-Advanced-ML-Pipeline/blob/main/notebooks/EasyVisa_Chris_Gonzalez.ipynb)
+[![View Model](https://img.shields.io/badge/View-Live%20Model-0A66C2?logo=githubpages&logoColor=white)](https://aineuroforge.github.io/EasyVisa-Advanced-ML-Pipeline/)
 
 ---
 
@@ -101,4 +101,4 @@ This approach ensures the model’s outputs remain **actionable**, not just stat
 This project was completed as part of the **Advanced Machine Learning curriculum** in the  
 **UT Austin / Great Learning Post Graduate Program in AI & ML** and has been refactored and extended for **portfolio-grade publication**.
 
-[View FoodHub Project in ePortfolio](https://www.mygreatlearning.com/eportfolio/christopher-gonzalez-mejias)  
+[View Easy Visa Project in ePortfolio](https://www.mygreatlearning.com/eportfolio/christopher-gonzalez-mejias)  
